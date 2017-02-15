@@ -1,0 +1,621 @@
+    conn:
+    proto_major = 7
+    proto_minor = 23
+    async_read = 1
+    max_write = 131072
+    max_readahead = 131072
+    capable = 00000ffb
+    want = 00000010
+    max_background = 0
+    congestion_threshold = 0
+    context:
+    fuse = 01e4e520
+    uid = 0
+    gid = 0
+    pid = 0
+    private_data = 01e4d010
+    logfile = 01e4e040
+    rootdir = /home/pahome/Desktop/aws/testfuse/a
+    umask = 00000
+    lstat returned -1
+    ERROR lstat: No such file or directory
+    fi:
+    flags = 0x00018800
+    fh_old = 0x00000000
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd174002130
+    lock_owner = 0x0000000000000000
+    lstat returned -1
+    ERROR lstat: No such file or directory
+    lstat returned -1
+    ERROR lstat: No such file or directory
+    lstat returned 0
+    lstat returned -1
+    ERROR lstat: No such file or directory
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd174002130
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd174002130
+    lock_owner = 0x0000000000000000
+    lstat returned 0
+    lstat returned 0
+    lstat returned 0
+    lstat returned 0
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd174002130
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd174002130
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00018800
+    fh_old = 0x00000000
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170000b20
+    lock_owner = 0x0000000000000000
+    lstat returned 0
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170000b20
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170000b20
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170000b20
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170000b20
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00018800
+    fh_old = 0x00000000
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170008c70
+    lock_owner = 0x0000000000000000
+    lstat returned 0
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170008c70
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170008c70
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170008c70
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170008c70
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00018800
+    fh_old = 0x00000000
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170000ba0
+    lock_owner = 0x0000000000000000
+    lstat returned 0
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170000ba0
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170000ba0
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170000ba0
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170000ba0
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00018800
+    fh_old = 0x00000000
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170000ba0
+    lock_owner = 0x0000000000000000
+    lstat returned 0
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170000ba0
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170000ba0
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170000ba0
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170000ba0
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00018800
+    fh_old = 0x00000000
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170008be0
+    lock_owner = 0x0000000000000000
+    lstat returned 0
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170008be0
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170008be0
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170008be0
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170008be0
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00018800
+    fh_old = 0x00000000
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170000ba0
+    lock_owner = 0x0000000000000000
+    lstat returned 0
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170000ba0
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170000ba0
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170000ba0
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170000ba0
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00018800
+    fh_old = 0x00000000
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170008be0
+    lock_owner = 0x0000000000000000
+    lstat returned 0
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170008be0
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170008be0
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170008be0
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170008be0
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00018800
+    fh_old = 0x00000000
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170000ba0
+    lock_owner = 0x0000000000000000
+    lstat returned 0
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170000ba0
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170000ba0
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170000ba0
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170000ba0
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00018800
+    fh_old = 0x00000000
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170000ba0
+    lock_owner = 0x0000000000000000
+    lstat returned 0
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170000ba0
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170000ba0
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170000ba0
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170000ba0
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00018800
+    fh_old = 0x00000000
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170008be0
+    lock_owner = 0x0000000000000000
+    lstat returned 0
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170008be0
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170008be0
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170008be0
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170008be0
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00018800
+    fh_old = 0x00000000
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170000ba0
+    lock_owner = 0x0000000000000000
+    lstat returned 0
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170000ba0
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170000ba0
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170000ba0
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170000ba0
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00018800
+    fh_old = 0x00000000
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170008be0
+    lock_owner = 0x0000000000000000
+    lstat returned 0
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170008be0
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170008be0
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170008be0
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170008be0
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00018800
+    fh_old = 0x00000000
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170000ba0
+    lock_owner = 0x0000000000000000
+    lstat returned 0
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170000ba0
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170000ba0
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170000ba0
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170000ba0
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00018800
+    fh_old = 0x00000000
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170008be0
+    lock_owner = 0x0000000000000000
+    lstat returned 0
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170008be0
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170008be0
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170008be0
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170008be0
+    fi:
+    flags = 0x00018800
+    fh_old = 0x00000000
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170000ba0
+    lock_owner = 0x0000000000000000
+    lock_owner = 0x0000000000000000
+    lstat returned 0
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170000ba0
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170000ba0
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd170000ba0
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd170000ba0
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00018800
+    fh_old = 0x00000000
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd174002130
+    lock_owner = 0x0000000000000000
+    lstat returned 0
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd174002130
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd174002130
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd174002130
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd174002130
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00018800
+    fh_old = 0x00000000
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd17400a170
+    lock_owner = 0x0000000000000000
+    lstat returned 0
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd17400a170
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd17400a170
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd17400a170
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd17400a170
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00018800
+    fh_old = 0x00000000
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd174002130
+    lock_owner = 0x0000000000000000
+    lstat returned 0
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd174002130
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd174002130
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd174002130
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd174002130
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00018800
+    fh_old = 0x00000000
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd174002130
+    lock_owner = 0x0000000000000000
+    lstat returned 0
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd174002130
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd174002130
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd174002130
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd174002130
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00018800
+    fh_old = 0x00000000
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd174002130
+    lock_owner = 0x0000000000000000
+    lstat returned 0
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd174002130
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd174002130
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd174002130
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd174002130
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00018800
+    fh_old = 0x00000000
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd17400a170
+    lock_owner = 0x0000000000000000
+    lstat returned 0
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd17400a170
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd17400a170
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd17400a170
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd17400a170
+    lock_owner = 0x0000000000000000
+    fi:
+    flags = 0x00018800
+    fh_old = 0x00000000
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd174002130
+    lock_owner = 0x0000000000000000
+    lstat returned 0
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd174002130
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd174002130
+    lock_owner = 0x0000000000000000
+    lstat returned -1
+    ERROR lstat: No such file or directory
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fd174002130
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fd174002130
+    lock_owner = 0x0000000000000000
+    statvfs returned 0
+    sv:
+    f_bsize = 4096
+    f_frsize = 4096
+    f_blocks = 239321509
+    f_bfree = 237372370
+    f_bavail = 225209785
+    f_files = 60792832
+    f_ffree = 60501315
+    f_favail = 60501315
+    f_fsid = -7712370247306015148
+    f_flag = 0x00001000
+    f_namemax = 255
